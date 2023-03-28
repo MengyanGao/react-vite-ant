@@ -11,7 +11,6 @@ const Detail = () => {
   function toRecord() {
     window.open("/");
   }
-
   return (
     <>
       <div>详情 页</div>

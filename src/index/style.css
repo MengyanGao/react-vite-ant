@@ -1,0 +1,22 @@
+.nav {
+  background: #00000029;
+}
+.nav-title {
+  width: 1024px;
+  display: flex;
+  height: 44px;
+  margin: auto;
+}
+.nav-title svg {
+  position: relative;
+  top: 7px;
+  left: 25px;
+}
+.articles {
+  display: flex;
+  list-style: none;
+}
+
+.articles li {
+  padding: 0 15px;
+}
