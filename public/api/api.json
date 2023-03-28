@@ -4,7 +4,13 @@
     "title": "商店",
     "exporeObj": {
       "title": "选购",
-      "expore": [{ "name": "选购新品", "url": "http://www.baidu.com" }]
+      "expore": [
+        { "name": "选购新品", "url": "http://www.baidu.com" },
+        { "name": "选购新品", "url": "http://www.baidu.com" },
+        { "name": "选购新品", "url": "http://www.baidu.com" },
+        { "name": "选购新品", "url": "http://www.baidu.com" },
+        { "name": "选购新品", "url": "http://www.baidu.com" }
+      ]
     },
     "linkObj": {
       "title": "快速链接",
@@ -13,9 +19,9 @@
   },
   {
     "id": 2,
-    "title": "商店",
+    "title": "Mac",
     "exporeObj": {
-      "title": "选购",
+      "title": "选购1",
       "expore": [{ "name": "选购新品", "url": "http://www.baidu.com" }]
     },
     "linkObj": {
@@ -25,9 +31,9 @@
   },
   {
     "id": 3,
-    "title": "商店",
+    "title": "Ipad",
     "exporeObj": {
-      "title": "选购",
+      "title": "选购2",
       "expore": [{ "name": "选购新品", "url": "http://www.baidu.com" }]
     },
     "linkObj": {
@@ -37,9 +43,21 @@
   },
   {
     "id": 4,
-    "title": "商店",
+    "title": "Iphone",
     "exporeObj": {
-      "title": "选购",
+      "title": "选购3",
+      "expore": [{ "name": "选购新品", "url": "http://www.baidu.com" }]
+    },
+    "linkObj": {
+      "title": "快速链接",
+      "link": [{ "name": "查找零售店", "url": "" }]
+    }
+  },
+  {
+    "id": 4,
+    "title": "Watch",
+    "exporeObj": {
+      "title": "选购4",
       "expore": [{ "name": "选购新品", "url": "http://www.baidu.com" }]
     },
     "linkObj": {

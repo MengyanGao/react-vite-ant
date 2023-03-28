@@ -1,11 +1,8 @@
 import React from "react";
 // 路由跳转
-import { useHistory } from "react-router-dom";
 const Detail = () => {
-  const history = useHistory();
-
   function toDetail() {
-    history.push("/");
+    window.push("/");
   }
 
   function toRecord() {
